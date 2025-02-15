@@ -1,0 +1,1 @@
+1           Alaska 665384.02            Texas 268596.53       California 163694.74          Montana 147039.75       New Mexico 121590.36          Arizona 113990.37           Nevada 110571.88         Colorado 104093.79           Oregon 98378.510         Wyoming 97813.0

@@ -1,0 +1,10 @@
+Alaska	1	665384.04
+Texas	2	268596.46
+California	3	163694.74
+Montana	4	147039.71
+New Mexico	5	121590.30
+Arizona	6	113990.30
+Nevada	7	110571.82
+Colorado	8	104093.67
+Oregon	9	98378.54
+Wyoming	10	97813.01
